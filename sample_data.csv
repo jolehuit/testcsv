@@ -1,0 +1,31 @@
+Date,Produit,Catégorie,Vendeur,Quantité,Prix_Unitaire,Chiffre_Affaires,Région
+2024-01-15,Laptop Pro,Informatique,Jean Dupont,2,1200.00,2400.00,Nord
+2024-01-16,Souris Gaming,Informatique,Marie Martin,5,45.00,225.00,Sud
+2024-01-17,Clavier Mécanique,Informatique,Pierre Durand,3,89.99,269.97,Est
+2024-01-18,Écran 4K,Informatique,Jean Dupont,1,350.00,350.00,Nord
+2024-01-19,Casque Audio,Audio,Marie Martin,4,120.00,480.00,Sud
+2024-01-20,Smartphone X,Téléphonie,Pierre Durand,6,699.00,4194.00,Est
+2024-01-21,Tablette Pro,Informatique,Jean Dupont,2,450.00,900.00,Nord
+2024-01-22,Enceinte Bluetooth,Audio,Marie Martin,8,75.50,604.00,Sud
+2024-01-23,Câble USB-C,Accessoires,Pierre Durand,15,12.99,194.85,Est
+2024-01-24,Chargeur Sans Fil,Accessoires,Jean Dupont,10,29.99,299.90,Nord
+2024-01-25,Webcam HD,Informatique,Marie Martin,3,89.00,267.00,Sud
+2024-01-26,Microphone Studio,Audio,Pierre Durand,1,199.00,199.00,Est
+2024-01-27,SSD 1TB,Stockage,Jean Dupont,4,129.99,519.96,Nord
+2024-01-28,Disque Dur 2TB,Stockage,Marie Martin,2,89.99,179.98,Sud
+2024-01-29,Carte Graphique,Informatique,Pierre Durand,1,599.00,599.00,Est
+2024-01-30,Processeur i7,Informatique,Jean Dupont,1,399.99,399.99,Nord
+2024-02-01,Mémoire RAM 32GB,Informatique,Marie Martin,2,159.99,319.98,Sud
+2024-02-02,Carte Mère Gaming,Informatique,Pierre Durand,1,249.99,249.99,Est
+2024-02-03,Alimentation 750W,Informatique,Jean Dupont,1,119.99,119.99,Nord
+2024-02-04,Boîtier PC,Informatique,Marie Martin,1,89.99,89.99,Sud
+2024-02-05,Ventilateur RGB,Accessoires,Pierre Durand,6,25.99,155.94,Est
+2024-02-06,Pâte Thermique,Accessoires,Jean Dupont,3,8.99,26.97,Nord
+2024-02-07,Cable HDMI 4K,Accessoires,Marie Martin,12,19.99,239.88,Sud
+2024-02-08,Adaptateur USB,Accessoires,Pierre Durand,20,7.99,159.80,Est
+2024-02-09,Hub USB 3.0,Accessoires,Jean Dupont,5,34.99,174.95,Nord
+2024-02-10,Support Écran,Accessoires,Marie Martin,3,45.99,137.97,Sud
+2024-02-11,Tapis de Souris XXL,Accessoires,Pierre Durand,8,22.99,183.92,Est
+2024-02-12,Repose-Poignet,Accessoires,Jean Dupont,10,15.99,159.90,Nord
+2024-02-13,Nettoyant Écran,Accessoires,Marie Martin,15,9.99,149.85,Sud
+2024-02-14,Housse Laptop,Accessoires,Pierre Durand,4,39.99,159.96,Est
